@@ -1,0 +1,20 @@
+﻿body {
+    padding: 5%;
+}
+.jumbotron {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0%;
+}
+.Server_details_info{
+    margin-top: 2.5%;
+    font-size: smaller;
+}
+    .Server_details_info .col{
+        margin-top: 0.5%;
+    }
+.chart-container {
+    position: relative;
+    margin: auto;
+    height: 40vh;
+    }

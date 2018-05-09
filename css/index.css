@@ -1,0 +1,31 @@
+body {
+    -webkit-touch-callout: none;
+    -webkit-text-size-adjust: none;
+    -webkit-user-select: none;
+    background-color: #F9F9F9;
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    height: 100%;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+.serverCard {
+    width: 80%;
+    margin: 2.5% 10% 0 10%;
+}
+
+.serverCard_speed > img {
+    opacity: 0.5;
+    margin: 0 5% 0 2.5%;
+}
+
+.serverCard_speed > img:first-of-type {
+    float: left;
+}
+
+.serverCard_speed_up, .serverCard_speed_down {
+    float: left;
+}
+

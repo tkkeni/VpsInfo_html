@@ -1,0 +1,28 @@
+.progress {
+    width: 100%;
+    font-size: 12px;
+    background: rgba(0,0,0,0);
+    margin: 1.5% 0 1.5% 0;
+}
+
+.progress_text {
+    font-weight: bold;
+    opacity: 0.7;
+    width: 10%;
+}
+
+.progress_background {
+    position: relative;
+    width: 85%;
+    background-color: rgba(128, 128, 128, 0.2);
+    height: 16px;
+    border-radius: 2px;
+}
+.progress_item {
+    width: 90%;
+    height: 16px;
+    background-color: #02adea;
+    border-radius: 2px;
+    position: absolute;
+    left: 0px;
+}
